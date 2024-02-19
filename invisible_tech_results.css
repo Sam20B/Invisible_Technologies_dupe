@@ -218,7 +218,7 @@ button:hover {
     top:1445px;
     left:965px;
     font-size:20px;
-    width:265px;
+    width:275px;
     font-weight:lighter;
     font-family:Arial, Helvetica, sans-serif;
 }
@@ -251,7 +251,7 @@ button:hover {
 }
 .airs {
     position:absolute;
-    top:2050px;
+    top:1875px;
     left:100px;
     font-size:65px;
     font-weight:lighter;
@@ -259,7 +259,7 @@ button:hover {
 }
 .logistics {
     position:absolute;
-    top:1315px;
+    top:1960px;
     left:100px;
     font-size:35px;
     font-weight:lighter;
@@ -267,14 +267,14 @@ button:hover {
 }
 .airsretailer {
     position:absolute;
-    top:1300px;
+    top:2065px;
     left:100px;
     width:250px;
-    height:650px;
+    height:400px;
 }
 .airsprob {
     position:absolute;
-    top:1380px;
+    top:2025px;
     left:380px;
     font-size:35px;
     font-weight:lighter;
@@ -282,7 +282,7 @@ button:hover {
 }
 .airssoln {
     position:absolute;
-    top:1380px;
+    top:2025px;
     left:670px;
     font-size:35px;
     font-weight:lighter;
@@ -290,7 +290,7 @@ button:hover {
 }
 .airsresults {
     position:absolute;
-    top:1380px;
+    top:2025px;
     left:965px;
     font-size:35px;
     font-weight:lighter;
@@ -298,7 +298,7 @@ button:hover {
 }
 .airsprobp {
     position:absolute;
-    top:1445px;
+    top:2090px;
     left:380px;
     font-size:20px;
     width:265px;
@@ -308,7 +308,7 @@ button:hover {
 .airssolnp {
     position:absolute;
     position:absolute;
-    top:1445px;
+    top:2090px;
     left:670px;
     font-size:20px;
     width:265px;
@@ -317,7 +317,7 @@ button:hover {
 }
 .airsresultsp {
     position:absolute;
-    top:1445px;
+    top:2090px;
     left:965px;
     font-size:20px;
     width:265px;
@@ -326,7 +326,7 @@ button:hover {
 }
 .airsp1 {
     position:absolute;
-    top:1705px;
+    top:2350px;
     left:380px;
     font-size:35px;
     font-weight:lighter;
@@ -335,7 +335,7 @@ button:hover {
 }
 .airsp2 {
     position:absolute;
-    top:1705px;
+    top:2350px;
     left:670px;
     font-size:35px;
     font-weight:lighter;
@@ -344,7 +344,7 @@ button:hover {
 }
 .airsp3 {
     position:absolute;
-    top:1705px;
+    top:2350px;
     left:965px;
     font-size:35px;
     font-weight:lighter;

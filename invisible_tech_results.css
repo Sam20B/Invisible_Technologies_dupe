@@ -79,7 +79,7 @@ button:hover {
 .ddsoln {
     position:absolute;
     top:720px;
-    left:700px;
+    left:670px;
     font-size:35px;
     font-weight:lighter;
     font-family:'Times New Roman', Times, serif;
@@ -87,7 +87,7 @@ button:hover {
 .ddresults {
     position:absolute;
     top:720px;
-    left:1005px;
+    left:965px;
     font-size:35px;
     font-weight:lighter;
     font-family:'Times New Roman', Times, serif;
@@ -105,7 +105,7 @@ button:hover {
     position:absolute;
     position:absolute;
     top:785px;
-    left:700px;
+    left:670px;
     font-size:20px;
     width:265px;
     font-weight:lighter;
@@ -114,9 +114,9 @@ button:hover {
 .ddresultsp {
     position:absolute;
     top:785px;
-    left:1005px;
+    left:965px;
     font-size:20px;
-    width:265px;
+    width:255px;
     font-weight:lighter;
     font-family:Arial, Helvetica, sans-serif;
 }
@@ -132,7 +132,7 @@ button:hover {
 .ddp2 {
     position:absolute;
     top:1045px;
-    left:700px;
+    left:670px;
     font-size:35px;
     font-weight:lighter;
     width:235px;
@@ -141,7 +141,211 @@ button:hover {
 .ddp3 {
     position:absolute;
     top:1045px;
-    left:1005px;
+    left:965px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.big4 {
+    position:absolute;
+    top:1230px;
+    left:100px;
+    font-size:65px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.ecommerce {
+    position:absolute;
+    top:1315px;
+    left:100px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.big4retailer {
+    position:absolute;
+    top:1300px;
+    left:100px;
+    width:250px;
+    height:650px;
+}
+.big4prob {
+    position:absolute;
+    top:1380px;
+    left:380px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.big4soln {
+    position:absolute;
+    top:1380px;
+    left:670px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.big4results {
+    position:absolute;
+    top:1380px;
+    left:965px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.big4probp {
+    position:absolute;
+    top:1445px;
+    left:380px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.big4solnp {
+    position:absolute;
+    position:absolute;
+    top:1445px;
+    left:670px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.big4resultsp {
+    position:absolute;
+    top:1445px;
+    left:965px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.big4p1 {
+    position:absolute;
+    top:1705px;
+    left:380px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.big4p2 {
+    position:absolute;
+    top:1705px;
+    left:670px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.big4p3 {
+    position:absolute;
+    top:1705px;
+    left:965px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.airs {
+    position:absolute;
+    top:2050px;
+    left:100px;
+    font-size:65px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.logistics {
+    position:absolute;
+    top:1315px;
+    left:100px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.airsretailer {
+    position:absolute;
+    top:1300px;
+    left:100px;
+    width:250px;
+    height:650px;
+}
+.airsprob {
+    position:absolute;
+    top:1380px;
+    left:380px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.airssoln {
+    position:absolute;
+    top:1380px;
+    left:670px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.airsresults {
+    position:absolute;
+    top:1380px;
+    left:965px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.airsprobp {
+    position:absolute;
+    top:1445px;
+    left:380px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.airssolnp {
+    position:absolute;
+    position:absolute;
+    top:1445px;
+    left:670px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.airsresultsp {
+    position:absolute;
+    top:1445px;
+    left:965px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.airsp1 {
+    position:absolute;
+    top:1705px;
+    left:380px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.airsp2 {
+    position:absolute;
+    top:1705px;
+    left:670px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.airsp3 {
+    position:absolute;
+    top:1705px;
+    left:965px;
     font-size:35px;
     font-weight:lighter;
     width:235px;

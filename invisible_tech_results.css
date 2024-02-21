@@ -355,3 +355,411 @@ button:hover {
     width:235px;
     font-family:'Times New Roman', Times, serif;
 }
+.bungalow {
+    position:absolute;
+    top:2525px;
+    left:100px;
+    font-size:65px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.realestate {
+    position:absolute;
+    top:2610px;
+    left:100px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.bungaretailer {
+    position:absolute;
+    top:2710px;
+    left:100px;
+    width:250px;
+    height:400px;
+}
+.bungaprob {
+    position:absolute;
+    top:2665px;
+    left:380px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.bungasoln {
+    position:absolute;
+    top:2665px;
+    left:670px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.bungaresults {
+    position:absolute;
+    top:2665px;
+    left:965px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.bungaprobp {
+    position:absolute;
+    top:2730px;
+    left:380px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.bungasolnp {
+    position:absolute;
+    position:absolute;
+    top:2730px;
+    left:670px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.bungaresultsp {
+    position:absolute;
+    top:2730px;
+    left:965px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.bungap1 {
+    position:absolute;
+    top:2990px;
+    left:380px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.bungap2 {
+    position:absolute;
+    top:2990px;
+    left:670px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.bungap3 {
+    position:absolute;
+    top:2990px;
+    left:965px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.getro {
+    position:absolute;
+    top:3170px;
+    left:100px;
+    font-size:65px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.platform {
+    position:absolute;
+    top:3255px;
+    left:100px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.getroretailer {
+    position:absolute;
+    top:3355px;
+    left:100px;
+    width:250px;
+    height:400px;
+}
+.getroprob {
+    position:absolute;
+    top:3310px;
+    left:380px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.getrosoln {
+    position:absolute;
+    top:3310px;
+    left:670px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.getroresults {
+    position:absolute;
+    top:3310px;
+    left:965px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.getroprobp {
+    position:absolute;
+    top:3375px;
+    left:380px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.getrosolnp {
+    position:absolute;
+    position:absolute;
+    top:3375px;
+    left:670px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.getroresultsp {
+    position:absolute;
+    top:3375px;
+    left:965px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.getrop1 {
+    position:absolute;
+    top:3635px;
+    left:380px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.getrop2 {
+    position:absolute;
+    top:3635px;
+    left:670px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.getrop3 {
+    position:absolute;
+    top:3635px;
+    left:965px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.headway {
+    position:absolute;
+    top:3795px;
+    left:100px;
+    font-size:65px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.healthcare {
+    position:absolute;
+    top:3880px;
+    left:100px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.headretailer {
+    position:absolute;
+    top:3980px;
+    left:100px;
+    width:250px;
+    height:400px;
+}
+.headprob {
+    position:absolute;
+    top:3935px;
+    left:380px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.headsoln {
+    position:absolute;
+    top:3935px;
+    left:670px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.headresults {
+    position:absolute;
+    top:3935px;
+    left:965px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.headprobp {
+    position:absolute;
+    top:4000px;
+    left:380px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.headsolnp {
+    position:absolute;
+    position:absolute;
+    top:4000px;
+    left:670px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.headresultsp {
+    position:absolute;
+    top:4000px;
+    left:965px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.headp1 {
+    position:absolute;
+    top:4260px;
+    left:380px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.headp2 {
+    position:absolute;
+    top:4260px;
+    left:670px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.headp3 {
+    position:absolute;
+    top:4260px;
+    left:965px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.klarna {
+    position:absolute;
+    top:4440px;
+    left:100px;
+    font-size:65px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.fintech {
+    position:absolute;
+    top:4545px;
+    left:100px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.klaretailer {
+    position:absolute;
+    top:4645px;
+    left:100px;
+    width:250px;
+    height:400px;
+}
+.klaprob {
+    position:absolute;
+    top:4600px;
+    left:380px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.klasoln {
+    position:absolute;
+    top:4600px;
+    left:670px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.klaresults {
+    position:absolute;
+    top:4600px;
+    left:965px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.klaprobp {
+    position:absolute;
+    top:4665px;
+    left:380px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.klasolnp {
+    position:absolute;
+    position:absolute;
+    top:4665px;
+    left:670px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.klaresultsp {
+    position:absolute;
+    top:4665px;
+    left:965px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.klap1 {
+    position:absolute;
+    top:4925px;
+    left:380px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.klap2 {
+    position:absolute;
+    top:4925px;
+    left:670px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.klap3 {
+    position:absolute;
+    top:4925px;
+    left:965px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}

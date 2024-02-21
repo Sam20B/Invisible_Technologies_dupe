@@ -1213,7 +1213,7 @@ button:hover {
     right:100px;
     width:75px;
     height:75px;
-    margin-bottom:35px;
+    bottom:35px;
 }
 .img5 {
     position:absolute;
@@ -1221,7 +1221,7 @@ button:hover {
     right:190px;
     width:75px;
     height:75px;
-    margin-bottom:35px;
+    bottom:35px;
 }
 .img6 {
     position:absolute;
@@ -1229,5 +1229,5 @@ button:hover {
     right:280px;
     width:75px;
     height:75px;
-    margin-bottom:35px;
+    bottom:35px;
 }

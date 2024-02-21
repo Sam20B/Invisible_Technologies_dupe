@@ -763,3 +763,412 @@ button:hover {
     width:235px;
     font-family:'Times New Roman', Times, serif;
 }
+.nasdaq {
+    position:absolute;
+    top:5085px;
+    left:100px;
+    font-size:65px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.financialServices {
+    position:absolute;
+    top:5170px;
+    left:100px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.nasretailer {
+    position:absolute;
+    top:5270px;
+    left:100px;
+    width:250px;
+    height:400px;
+}
+.nasprob {
+    position:absolute;
+    top:5225px;
+    left:380px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.nassoln {
+    position:absolute;
+    top:5225px;
+    left:670px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.nasresults {
+    position:absolute;
+    top:5225px;
+    left:965px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.nasprobp {
+    position:absolute;
+    top:5290px;
+    left:380px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.nassolnp {
+    position:absolute;
+    position:absolute;
+    top:5290px;
+    left:670px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.nasresultsp {
+    position:absolute;
+    top:5290px;
+    left:965px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.nasp1 {
+    position:absolute;
+    top:5550px;
+    left:380px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.nasp2 {
+    position:absolute;
+    top:5550px;
+    left:670px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.nasp3 {
+    position:absolute;
+    top:5550px;
+    left:965px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.rappi {
+    position:absolute;
+    top:5710px;
+    left:100px;
+    font-size:65px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.ecommerce1 {
+    position:absolute;
+    top:5795px;
+    left:100px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.rapretailer {
+    position:absolute;
+    top:5895px;
+    left:100px;
+    width:250px;
+    height:400px;
+}
+.rapprob {
+    position:absolute;
+    top:5850px;
+    left:380px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.rapsoln {
+    position:absolute;
+    top:5850px;
+    left:670px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.rapresults {
+    position:absolute;
+    top:5850px;
+    left:965px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.rapprobp {
+    position:absolute;
+    top:5915px;
+    left:380px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.rapsolnp {
+    position:absolute;
+    position:absolute;
+    top:5915px;
+    left:670px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.rapresultsp {
+    position:absolute;
+    top:5915px;
+    left:965px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.rapp1 {
+    position:absolute;
+    top:6200px;
+    left:380px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.rapp2 {
+    position:absolute;
+    top:6200px;
+    left:670px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.rapp3 {
+    position:absolute;
+    top:6175px;
+    left:965px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.rhino {
+    position:absolute;
+    top:6335px;
+    left:100px;
+    font-size:65px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.realEstate1 {
+    position:absolute;
+    top:6420px;
+    left:100px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.rhiretailer {
+    position:absolute;
+    top:6520px;
+    left:100px;
+    width:250px;
+    height:400px;
+}
+.rhiprob {
+    position:absolute;
+    top:6505px;
+    left:380px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.rhisoln {
+    position:absolute;
+    top:6505px;
+    left:670px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.rhiresults {
+    position:absolute;
+    top:6505px;
+    left:965px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.rhiprobp {
+    position:absolute;
+    top:6570px;
+    left:380px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.rhisolnp {
+    position:absolute;
+    position:absolute;
+    top:6570px;
+    left:670px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.rhiresultsp {
+    position:absolute;
+    top:6570px;
+    left:965px;
+    font-size:20px;
+    width:265px;
+    font-weight:lighter;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.rhip1 {
+    position:absolute;
+    top:6855px;
+    left:380px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.rhip2 {
+    position:absolute;
+    top:6855px;
+    left:670px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.rhip3 {
+    position:absolute;
+    top:6855px;
+    left:965px;
+    font-size:35px;
+    font-weight:lighter;
+    width:235px;
+    font-family:'Times New Roman', Times, serif;
+}
+.workToDo {
+    position:absolute;
+    top:7100px;
+    left:100px;
+    font-size:65px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.workToDop {
+    position:absolute;
+    top: 7225px;
+    left:100px;
+    font-size:20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.b2 {
+    top:7290px;
+    left: 100px;
+}
+.img2 {
+    position:absolute;
+    top:7470px;
+    left:100px;
+    width:150px;
+    height:60px;
+}
+.aboutbottom {
+    position:absolute;
+    top: 7450px;
+    left:450px;
+    font-size:15px;
+    font-weight:650;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.aiservicesbottom {
+    position:absolute;
+    top: 7450px;
+    left:650px;
+    font-size:15px;
+    font-weight:650;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.industriesbottom {
+    position:absolute;
+    top: 7450px;
+    left:850px;
+    font-size:15px;
+    font-weight:650;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.aboutlist {
+    position:absolute;
+    top:7475px;
+    left:410px;
+    list-style-type: none;
+    font-weight:550;
+}
+.aboutlist a {
+    text-decoration: none;
+    color:white;
+    font-size:15px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.aboutlist a:hover {
+    color:#600b99;
+}
+.ailist {
+    position:absolute;
+    top:7475px;
+    left:610px;
+    list-style-type: none;
+    font-weight:550;
+}
+.ailist a {
+    text-decoration: none;
+    color:white;
+    font-size:15px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.ailist a:hover {
+    color:#600b99;
+}
+.industrieslist {
+    position:absolute;
+    top:7475px;
+    left:810px;
+    list-style-type: none;
+    font-weight:550;
+}
+.industrieslist a {
+    text-decoration: none;
+    color:white;
+    font-size:15px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.industrieslist a:hover {
+    color:#600b99;
+}
+.b3 {
+    top:7475px;
+    right:150px;
+    height:65px;
+}

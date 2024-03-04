@@ -97,11 +97,46 @@ button:hover {
 }
 .alignedIncentives {
     position:absolute;
-    top:1200px;
-    left:275px;
+    top:1150px;
+    left:175px;
+    width:250px;
+    height:300px;
 }
 .embeddedCapacity {
     position:absolute;
-    top:1200px;
-    left:425px;
+    top:1150px;
+    left:520px;
+    width:250px;
+    height:300px;
+}
+.responsivePlatform {
+    position:absolute;
+    top:1150px;
+    left:920px;
+    width:250px;
+    height:300px;
+}
+.alignedIncentivesh3 {
+    position:absolute;
+    top:1400px;
+    left:175px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.embeddedCapacityh3 {
+    position:absolute;
+    top:1400px;
+    left:520px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
+}
+.responsivePlatformh3 {
+    position:absolute;
+    top:1400px;
+    left:920px;
+    font-size:35px;
+    font-weight:lighter;
+    font-family:'Times New Roman', Times, serif;
 }

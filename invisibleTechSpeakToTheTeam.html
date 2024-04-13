@@ -1,12 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="speakToTheTeam.css">
-    <title>Speak to the team</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="team.css">
+  <title>Speak to the team</title>
 </head>
 <body>
-    <div class="cont1"></div>
+<div class="cont1"></div>
+<h1 class="h1">Help us help you.</h1>
+<p class="headerp">Your feedback is greatly appreciated and will help us improve on our services.</p>
+<div class="cont2">
+<form>
+  <div class="input-container1">
+    <input type="text" id="inputField1" placeholder=" " required>
+    <label for="inputField1" oninput="input(this)">First name</label>
+  </div>
+  <div class="input-container2">
+    <input type="text" id="inputField2" placeholder=" ">
+    <label for="inputField2" oninput="input(this)">Middle name (optional)</label>
+  </div>
+  <div class="input-container3">
+    <input type="text" id="inputField3" placeholder=" " required>
+    <label for="inputField3" oninput="input(this)">Last name</label>
+  </div>
+  <div class="input-container4">
+    <input type="email" id="inputField4" placeholder=" " required>
+    <label for="inputField4" oninput="input(this)">Email</label>
+  </div>
+  <div class="input-container5">
+    <input type="text" id="inputField5" onclick='phoneNumber()' placeholder="+254" onload="placeholder.style.display('none')">
+    <label for="inputField5" oninput="input(this)">Phone no.</label>
+  </div>
+  <p class="p1">Please describe your problem below.</p>
+  <textarea></textarea>
+  <button class="submit" onclick="alert('Thank you for your feedback')"><b>Submit</b></button>
+  </form>
+</div>
+<script src="team.js"></script>
+</script>
 </body>
 </html>

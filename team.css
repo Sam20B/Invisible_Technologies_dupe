@@ -81,7 +81,7 @@ input {
   }
 .cont2 {
   position:absolute;
-  height:132%;
+  height:138%;
   width:500px;
   border-left:1px solid #6748ad;
   border-right:1px solid #6748ad;
@@ -168,7 +168,7 @@ textarea {
 }
 .submit {
   position:absolute;
-  top:795px;
+  top:820px;
   right:50px;
   width:125px;
   height:50px;
